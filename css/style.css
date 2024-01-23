@@ -106,3 +106,34 @@ body {
     line-height: normal;
     max-width: 704px;
 }
+
+@media (max-width: 1000px) {
+    .user-actions__item-search{
+        margin-left: 30px;
+    }
+    .menu{
+        margin-right: auto;
+    }
+    .menu__list{
+        margin-left: 60px;
+    }
+    .logo{
+        margin-bottom: 0;
+    }
+    .header__inner{
+        min-height: auto;
+    }
+    .blockquote__text{
+        margin-top: 120px;
+        margin-bottom: 135px;
+    }
+}
+@media (max-width: 768px) {
+
+}
+@media (max-width: 480px) {
+
+}
+@media (max-width: 360px) {
+
+}
